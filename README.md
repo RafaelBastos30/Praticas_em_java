@@ -1,3 +1,3 @@
-# Praticas_em_java
+# Teste de código para empresa
 
-Repositório feito para inserir minhas práticas em desenvolvimento java. Aqui estarão disponíveis códigos de teste nessa linguagem!
+Neste codigo é possível que o diretos da empresa gerencie todos os funcionarios.
