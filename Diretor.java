@@ -3,7 +3,6 @@ public class Diretor extends Funcionario {
     
     int i;
     Scanner leitor = new Scanner(System.in);
-   int senha_Ger;
     
     
     public void Comfirmar_Dir(){
